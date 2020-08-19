@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Web Architect
+# role: Web Architect
 
 # Organizations/Affiliations
 # organizations:
@@ -18,11 +18,12 @@ role: Web Architect
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Full stack web developer with interests in genealogy, gaming, science and technology.
 
 interests:
 - Web Development
 - Science and Technology
+- Gaming
 - Genealogy
 
 # Social/Academic Networking
@@ -39,6 +40,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ghoppe
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/h0p.ca/
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/ghoppe
@@ -58,6 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Glenn Hoppe. I'm a full-stack web developer. Welcome to my personal website. Here I share research into my family history.
