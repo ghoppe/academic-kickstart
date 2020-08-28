@@ -4,9 +4,11 @@ a:hover {color: #0000FF;text-decoration: underline;}
 
 body, #pHeader, #menu ul, #ddmenuspan
 	{
-	background-image: url(lp_babyblue2.jpg);
+/*	background-image: url(lp_babyblue2.jpg); */
 	color: #102a69;
 	}
+
+	#menu ul { background-color: white; }
 
 .reportBody, #rBody
 	{
@@ -89,7 +91,7 @@ body, #pHeader, #menu ul, #ddmenuspan
 .rrSpouseName
 	{
 	background-color: rgba(188,207,215,0.39);
-	}	
+	}
 
 .rrChildren
 	{
@@ -144,7 +146,7 @@ table#results td.u
 	{
 	color: #888;
 	}
-	
+
 .wcFacts
 	{
 	color: #444;
@@ -160,14 +162,14 @@ table#results td.u
 	border-color: #CCB053;
 	color: #333;
 	}
-	
+
 .wcHusband, .wcMWife,
 .wcMChild, .wcMChildBold,
 .wcHFactsWrapper .wcFactPicture img
 	{
 	background-color: rgba(224,239,254,0.3);
 	}
-	
+
 .wcWife, .wcFHusband,
 .wcFChild, .wcFChildBold,
 .wcHFactsWrapper .wcFactPicture img
@@ -184,7 +186,7 @@ table#results td.u
 	{
 	background-color: rgba(191,214,221,0.7);
 	}
-	
+
 .psTitle
 	{
 	color: #444;
@@ -252,14 +254,14 @@ table#results td.u
 	{
 	color: #2679e5;
 	}
-	
+
 /* pedigree chart colors */
 .box
 	{
 	border-color: #888;
  	background-position: bottom;
 	}
-	
+
 .connect
 	{
 	border-color: gray;
@@ -271,7 +273,7 @@ table#results td.u
 	background-color: white;
 	border-color: #888;
 	}
-	
+
 .scView
 	{
 	color: #ababab;

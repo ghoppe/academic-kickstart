@@ -1,6 +1,6 @@
 ---
 title: "Waldner"
-summary: David Waldner (1843-1928) and Katharina Tschetter (1842-1902) and associated Hutterite families in Saskatchewan.
+summary: David Waldner (1843-1928) and Katharina Tschetter (1842-1902) and associated Hutterite/Mennonite families in Saskatchewan.
 
 date: 28 Jul 2020
 reading_time: true

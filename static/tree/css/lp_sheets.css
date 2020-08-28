@@ -48,6 +48,35 @@ a img {	border-style: none; margin: 0px 3px; }
 	padding-bottom: 1px;
 	}
 
+	.psEvent, .psName, .psFact, .psParent, .psChild {
+	  display: flex;
+	  margin-right: 125px;
+	  align-items: baseline;
+	}
+
+	.psEvent, .psFact, .psParent, .psChild {
+	  padding-top: 2px;
+	  padding-bottom: 2px;
+	}
+
+	.psName, .psParent, .psChild {
+	  padding-top: 4px;
+	  padding-bottom: 4px;
+	}
+
+	.psEvent .colFirst, .psName .psTitle, .psFact .colFirst, .psParent .colFirst, .psChild .colFirst {
+	  width: 25%;
+	  padding-right: 15px;
+	}
+
+	.psEvent .colSecond, .psName .psText, .psFact .colSecond, .psParent .colSecond, .psChild .colSecond {
+	  width: 75%;
+	}
+
+	.psName .psText > a:last-child {
+	  float: right;
+	}
+
 div.psRecordEnd
 	{
 	clear: both;
@@ -81,7 +110,7 @@ div.psRecordEnd
 	margin-top: 5px;
 	font-weight: bold;
 	}
-	
+
 .psChildren
 	{
 	margin-top: 1em;
@@ -115,19 +144,19 @@ div.psRecordEnd
 	text-align: center;
 	font-size: 0.9em;
 	}
-	
+
 .psModDate
 	{
 	display: block;
 	}
-	
+
 .mediaIcon
 	{
 	margin-left: 2px;
 	vertical-align: bottom;
 	margin-bottom: 2px;
 	}
-	
+
 @media all and (min-width: 415px)
 	{
 	.reportBody, #rBody
@@ -158,20 +187,20 @@ div.psRecordEnd
 	.psFooter
 		{
 		border-top: 1px solid;
-		}		
+		}
 
 	.psFooterRecord
 		{
 		text-align: right;
 		}
-	
+
 	.psModDate
 		{
 		display: inline;
 		float: left;
 		padding-left: .5em;
 		}
-	
+
 	.psCreated
 		{
 		text-align: right;

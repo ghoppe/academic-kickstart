@@ -8,7 +8,7 @@ body
 	{
 	margin: auto;
 	margin-bottom: 50px;
-	margin-top: 37px;
+	margin-top: 125px;
 	max-width: 855px;
 	min-width: 300px;
 	width: auto !important;
@@ -19,7 +19,7 @@ body
 	height: 37px;
 	width: 100%;
 	position: fixed;
-	top: 0;
+	top: 72px;
 	left: 0;
  	border-width: 0px 0px 1px 0px;
 	opacity: 0.95;
@@ -56,16 +56,16 @@ a.anchor
 
 #menu ul
 	{
-    list-style-type: none;
+  list-style-type: none;
 	margin: 0px;
 	padding: 0px;
 	position: fixed;
-	top: 0px;
+	top: 72px;
 	right: 0px;
 	height: 100%;
 	width: 0;
 	transition: 0.5s;
-	margin-top: 37px;
+	margin-top: 72px;
 	margin-right: -1px;
 	border-width: 1px 0px 0px 1px;
 	}
@@ -179,7 +179,7 @@ input.thirdpartytext
 		left: 4px;
 		}
 	}
-	
+
 @media all and (min-height: 450px)
 	{
 	#tableBorder
@@ -206,7 +206,7 @@ input.thirdpartytext
 		opacity: 1;
 		text-align: center;
 		}
-		
+
 	#menu ul
 		{
 		width: 100%;
@@ -216,14 +216,14 @@ input.thirdpartytext
 		margin: auto;
 		box-shadow: none;
 		border-width: 0px 0px 1px 0px;
-		top: 0px;
+		top: 72px;
 		height: 37px;
 		line-height:37px;
 		vertical-align: middle;
 
 		transition: none;
 		}
-		
+
 	#menu li
 		{
 		margin: auto;
@@ -237,14 +237,14 @@ input.thirdpartytext
 		{
 		font-size: 1.2em;
 		}
-	
-	
+
+
 	/* hide the report title in the header */
 	#pTitle
 		{
 		visibility: hidden;
 		}
-	
+
 	/* show the report title in the body of the report */
 	.pageTitle, .tocTitle
 		{
