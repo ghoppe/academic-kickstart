@@ -6,7 +6,7 @@ date: 28 Jul 2020
 reading_time: true
 ---
 
-Charles Brazier was born Nov. 5, 1837 in Little Shelford, Cambridgeshire, England to Thomas and Mary Brazier in the Wale's Estate and baptized as his father, brothers and sisters were in All Saint's Church of England. Charles aided his father in the management of the estate until he emigrated to Winnipeg in 1872, a few months before his wife and children came to establish landscapes of St. John's Cathedral, College and Bishop's palace; his wife as cook at Palace.
+[Charles Brazier](/tree/ps01/ps01_049.html) was born Nov. 5, 1837 in Little Shelford, Cambridgeshire, England to Thomas and Mary Brazier in the Wale's Estate and baptized as his father, brothers and sisters were in All Saint's Church of England. Charles aided his father in the management of the estate until he emigrated to Winnipeg in 1872, a few months before his wife and children came to establish landscapes of St. John's Cathedral, College and Bishop's palace; his wife as cook at Palace.
 
 ![Charles Brazier](/img/Brazier_Charles.jpg)<figcaption><strong>Charles Brazier, about 1905</strong></figcaption>
 
@@ -18,4 +18,10 @@ By 1878 they were on a homestead at St. James, now part of Winnipeg. Thomas Braz
 
 Their children born and baptized in Little Shelford, Cambridgeshire. William died in Australia where he took his family in 1872; Sara, Sophie and Eliza died in England. George's daughter married Smith and had Jane. Martha and James died in England. Tom was alive in 1840 at the age of 76 years, and lifed at Brownland Road, Finchly, London, England. Charles died Sept. 24, 1915 and is buried by his wife in St. John's Cemetery, Winnipeg, Manitoba.
 
+![William Brazier Family](/img/Brazier_William_Polly.jpg)<figcaption><strong>William Brazier and family, about 1910</strong></figcaption>
+
+![Brazier Family in Manitoba](/img/Brazier-Family_c1911.jpg)<figcaption><strong>Martha, Ethel, Walter, Charles, Lila, Myrtle, Baby Charles, about 1911</strong></figcaption>
+
 ![Brazier Sisters](/img/Brazier_sisters.jpg)<figcaption><strong>Brazier Sisters, Harriet Nunn, Eliza Durston, Sarah Midwinter and Clara McCausland, about 1940</strong></figcaption>
+
+Brazier-Family_c1911.jpg
