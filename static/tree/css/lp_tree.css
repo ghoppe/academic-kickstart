@@ -26,6 +26,8 @@
 	margin-left:auto;
 	margin-right:auto;
 	height: 41.5em;
+
+	font-size: 16px;
 	}
 
 /* Person box appearance */
@@ -34,16 +36,25 @@
 	position: absolute;
     z-index: -1;
 
-	width: 15em;
+	width: 14em;
 	height: 3.5em;
 	margin: 10px 0px;
-	padding: 2px;
-	
+	padding: 0px 6px;
+
+	/* don't let name wrap */
+	text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+
 	-moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     -khtml-border-radius: 3px;
     border-radius: 3px;
 	}
+
+.box br {
+  line-height: 1.5 !important;
+}
 
 .male
 	{
@@ -89,19 +100,19 @@
 .showSC
 	{
 	font-size: 0.857em;
-	width: 16.4em;
-	height: 1.2em;
+	width: 12em;
+	height: 2em;
 	z-index: -2;
 	background-color: white;
 	color: black;
-    position: absolute;
+  position: absolute;
 	margin: 0px;
 	text-align: right;
-	padding-top: .3em;
+	padding-top: .25em;
 
 	border: 1px solid #ccc;
 	border-top: none;
-	
+
 	-moz-border-radius: 0px 0px 3px 1px;
     -webkit-border-radius: 0px 0px 3px 1px;
     -khtml-border-radius: 0px 0px 3px 1px;
@@ -118,13 +129,16 @@
 	{
 	width: 12px;
 	height: 8px;
+	float: left;
+	margin-top: 8px;
+	margin-right: 6px;
 	}
 
 
 /* Spouse & Children popup menu */
 .scView
 	{
-	padding-bottom: 5px;	
+	padding-bottom: 5px;
 	font-size: 0.857em;
 	width: 16.4em;
 	height: 10.5em;
@@ -389,7 +403,7 @@
 #sourceSC, #sourceShowSC
 	{
 	top: 26.1em;
-	left: 1.2em;
+	left: 1em;
 	}
 
 #p1SC, #p1ShowSC, #p2SC, #p2ShowSC
@@ -571,32 +585,32 @@ div#gp1SC, div#gp1ShowSC
 		{
 		top: 35.5em;
 		}
-	
+
 	#gp1SC, #gp1ShowSC, #gp2SC, #gp2ShowSC, #gp3SC, #gp3ShowSC, #gp4SC, #gp4ShowSC
 		{
-		left: 21.7em;
+		left: 21em;
 		}
 
 	div#gp1SC, div#gp1ShowSC
 		{
-		top: 8.14em;
+		top: 7.67em;
 		}
 
 	#gp2SC, #gp2ShowSC
 		{
-		top: 20.94em;
+		top: 20.5em;
 		}
 
 	#gp3SC, #gp3ShowSC
 		{
-		top: 33.74em;
+		top: 33.33em;
 		}
 
 	#gp4SC, #gp4ShowSC
 		{
-		top: 46.64em;
+		top: 46.25em;
 		}
-		
+
 	/*Connecting Lines*/
 	#cnct1
 		{
@@ -622,27 +636,27 @@ div#gp1SC, div#gp1ShowSC
 		{
 		top: 27.5em;
 		}
-	
+
 	/*Drop-down Positioning*/
 	#sourceSC, #sourceShowSC
 		{
-		top: 27.34em;
-		left: 1.6em;
+		top: 26.75em;
+		left: 1em;
 		}
 
 	#p1SC, #p1ShowSC, #p2SC, #p2ShowSC
 		{
-		left: 9em;
+		left: 8.25em;
 		}
-		
+
 	#p1SC, #p1ShowSC
 		{
-		top: 14.54em;
+		top: 14em;
 		}
 
 	#p2SC, #p2ShowSC
 		{
-		top: 40.24em;
+		top: 39.75em;
 		}
 	}
 
@@ -653,18 +667,18 @@ div#gp1SC, div#gp1ShowSC
 		{
 		max-width: 760px;
 		}
-	
+
 	#ggp1, #ggp2, #ggp3, #ggp4, #ggp5, #ggp6, #ggp7, #ggp8
 		{
 		visibility: visible;
-		
-		left: 34em;
+
+		left: 33em;
 		}
-		
+
 	#cnct4, #cnct5, #cnct6, #cnct7
 		{
 		visibility: visible;
-		left: 33em;
+		left: 30.5em;
 		height: 6.5em;
 		width: 3em;
 		}
@@ -684,6 +698,35 @@ div#gp1SC, div#gp1ShowSC
 		visibility: visible;
 
 		height: 1.5em;
-		left: 50em;
+		left: 48em;
 		}
 	}
+
+@media all and (min-width: 1200px)
+  {
+	#pBody
+		{
+		max-width: 1200px;
+		}
+
+		.box {
+		  width: 18em;
+		}
+
+	#cnct4, #cnct5, #cnct6, #cnct7 {
+	  left: 34.5em;
+	}
+
+	#ggp1, #ggp2, #ggp3, #ggp4, #ggp5, #ggp6, #ggp7, #ggp8
+		{
+		left: 37em;
+		}
+
+
+	#gggp1, #gggp2, #gggp3, #gggp4, #gggp5, #gggp6, #gggp7, #gggp8,
+	#gggp9, #gggp10, #gggp11, #gggp12, #gggp13, #gggp14, #gggp15, #gggp16
+		{
+		  left: 56em;
+		}
+
+  }

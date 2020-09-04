@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Genealogy"
-  url = "/genealogy"
+  url = "#genealogy"
   weight = 20
 
 [[main]]
