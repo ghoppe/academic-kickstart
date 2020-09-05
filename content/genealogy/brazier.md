@@ -23,5 +23,3 @@ Their children born and baptized in Little Shelford, Cambridgeshire. William die
 ![Brazier Family in Manitoba](/img/Brazier-Family_c1911.jpg)<figcaption><strong>Martha, Ethel, Walter, Charles, Lila, Myrtle, Baby Charles, about 1911</strong></figcaption>
 
 ![Brazier Sisters](/img/Brazier_sisters.jpg)<figcaption><strong>Brazier Sisters, Harriet Nunn, Eliza Durston, Sarah Midwinter and Clara McCausland, about 1940</strong></figcaption>
-
-Brazier-Family_c1911.jpg
