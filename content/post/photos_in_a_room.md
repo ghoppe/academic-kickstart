@@ -19,7 +19,7 @@ I looked at the photos, closely, wondering who they could be. Clearly it's a fam
 
 Just before I was about to do that, inspiration struck. Wait a second… the patriarch's face looks familiar — actually that *moustache* looks familiar. I had a photo of my paternal grandfather's brothers standing before the coffin at my grandfather's burial. Could it be the family of my great-uncle, August Hoppe?
 
-![August and Andreas Hoppe](/img/hoppe_brothers.jpg)<figcaption><strong>Hoppe brothers, August and Andreas, at the burial of Ferdinand Hoppe, 1946</strong></figcaption>
+![August and Andreas Hoppe](/img/hoppe_brothers.jpg)<figcaption><strong>Hoppe brothers, August and Andreas (Andrew), at the burial of Ferdinand Hoppe, 1946</strong></figcaption>
 
 [August and Helena Hoppe](/tree/wc01/wc01_105.html) had one son and six daughters — but sadly the youngest daughter died as a baby. The family configuration matched! I checked whether the other two photos matched children of any of the daughters. My assumption was that the photos were taken at the earliest time the families could have had the children, so one had to have a boy first, and the other family had to have two girls as the first children. I had assumed the tallest of the daughters was the eldest, but no! The families matched if the shorter daughter was the eldest.
 
